@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pillow
+pytesseract
+transformers
+torch
