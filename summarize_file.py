@@ -125,6 +125,8 @@ class Summarizer:
             return self.summarize_using_groq(text)
         elif(self.model == "SwedishBeagle-dare"):
             return self.summarize_using_swedishbeagle(text)
+        
+
 # Streamlit app
 def main():
     # Models:
