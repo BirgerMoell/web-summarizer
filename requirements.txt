@@ -4,3 +4,5 @@ pillow
 pytesseract
 transformers
 torch
+groq
+python-dotenv
